@@ -73,3 +73,4 @@ This guide is for contributors looking to make changes to the documentation in t
 2. **Push your new changes on a new branch**: Feel free to add or edit existing documentation and open a PR for your changes. Once your PR is reviewed and approved, the changes will be ready to merge into main. 
 
 3. **Updating the website**: Once your changes are merged to main, the changes would be reflected on live websites usually in 5-15 mins.
+4. **Generate the DSPy book** *(optional)*: Run `python scripts/create_book.py` to assemble all educational docs into a single `BOOK.md` file.
