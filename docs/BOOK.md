@@ -1608,7 +1608,7 @@ You should compose multiple signatures into bigger [DSPy modules](modules.md) an
 
 ### tutorials/agents/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/agents/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/async/index.md
 
@@ -1752,7 +1752,7 @@ asyncio.run(main())
 
 ### tutorials/audio/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/audio/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/build_ai_program/index.md
 
@@ -1964,7 +1964,7 @@ This tutorial demonstrates a few aspects of using DSPy in a highly-accessible, c
 
 ### tutorials/classification_finetuning/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/classification_finetuning/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/core_development/index.md
 
@@ -1980,7 +1980,7 @@ Cannot convert /workspace/dspy/docs/docs/tutorials/classification_finetuning/ind
 
 ### tutorials/customer_service_agent/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/customer_service_agent/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/deployment/index.md
 
@@ -2233,15 +2233,15 @@ For a complete guide on production deployment options and best practices, refer 
 
 ### tutorials/entity_extraction/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/entity_extraction/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/games/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/games/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/image_generation_prompting/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/image_generation_prompting/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/index.md
 
@@ -2294,7 +2294,7 @@ Welcome to DSPy tutorials! We've organized our tutorials into three main categor
 
 ### tutorials/math/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/math/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/mcp/index.md
 
@@ -2755,7 +2755,7 @@ any functionality you need.
 
 ### tutorials/multihop_search/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/multihop_search/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/observability/index.md
 
@@ -3263,11 +3263,11 @@ This tutorial demonstrates a few aspects of using DSPy in a more advanced contex
 
 ### tutorials/program_of_thought/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/program_of_thought/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/rag/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/rag/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/rl_ai_program/index.md
 
@@ -3275,11 +3275,11 @@ See the links on the side bar.
 
 ### tutorials/rl_multihop/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/rl_multihop/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/rl_papillon/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/rl_papillon/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
 
 ### tutorials/saving/index.md
 
@@ -3860,4 +3860,4 @@ print(f"Program output: {program_output}")
 
 ### tutorials/tool_use/index.ipynb
 
-Cannot convert /workspace/dspy/docs/docs/tutorials/tool_use/index.ipynb, nbconvert not installed.
+*Notebook index.ipynb not converted: nbconvert not installed.*
